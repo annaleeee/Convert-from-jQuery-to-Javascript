@@ -1,3 +1,4 @@
+// 주석 : jQuery
 
 // $('.box1 span').text('흐림')
 let cloudy = document.getElementById('sunny')
